@@ -1,0 +1,13 @@
+Video Link: 
+
+https://drive.google.com/drive/folders/1PCu104BMFFYtkWxJ3SowA6XGtFvjysNn?usp=sharing
+
+Description:
+
+Developed an advanced GPS Tracking System within the SMART ERP platform using ASP.NET MVC 5, C#, SQL Server, 
+jQuery, and Google Maps integration. Implemented real-time employee live location tracking, field visit monitoring, 
+and route history management with browser/mobile geolocation support. Designed modules for Field Visit GPS logging, 
+Live Employee Tracking, GPS History, and admin monitoring dashboards with role-based access control. Integrated latitude,
+longitude, accuracy, visit purpose, client details, and timestamp-based tracking to support operational monitoring, 
+employee movement analysis, and field activity management.Ensured secure, scalable, and responsive implementation compatible 
+with both desktop and mobile environments.
