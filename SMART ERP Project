@@ -1,0 +1,10 @@
+Video Link:
+
+https://drive.google.com/drive/folders/1T99aybPeGx1kMTEqLPKIBEMffgbJyU8z?usp=sharing
+
+Description: 
+Developed a centralized ERP platform for attendance synchronization and enterprise operations using ASP.NET MVC 5, C#, and 
+SQL Server. Implemented RBAC, OAuth authentication, and admin dashboard with user/company and tool access control. 
+Built key modules including attendance processing, branch issue detection, reprocessing, salary garbage anomaly validation, 
+employee reporting & Analytics System (RDLC) and multi-database management. Enhanced system efficiency through data monitoring, 
+performance optimization, and secure architecture, ensuring high data integrity and reliable ERP operations.
