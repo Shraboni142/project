@@ -1,0 +1,15 @@
+Video Link: 
+
+https://drive.google.com/drive/folders/1A-g0bZHopZdP1R7_x8cyD7lkU3PxdqKI?usp=sharing
+
+Description:
+
+Developed a structured Employee Complaint Management System within the SMART ERP platform using ASP.NET MVC, C#, SQL Server, 
+Entity Framework, and jQuery. Implemented employee complaint submission with category-wise complaint entry, attachment upload, 
+complaint details, and employee information mapping. Designed an HR review workflow where authorized users can view complaints, 
+verify details, update status, add remarks, and track resolution progress.
+
+Built employee-wise complaint search, filtering, and status tracking features to monitor pending, reviewed, resolved, and 
+rejected complaints. Followed a clean Controller–Service–Repository architecture to ensure maintainability, scalability, 
+and separation of business logic. Integrated secure data handling, role-based access, and user-friendly screens to improve HR 
+complaint processing, employee communication, and organizational transparency.
