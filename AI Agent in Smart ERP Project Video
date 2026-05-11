@@ -1,0 +1,12 @@
+Video Link:
+
+https://drive.google.com/drive/folders/1yOgWHn9X8XqlT4oIyFPa2byc258bruui?usp=sharing
+
+
+Description:
+1.Developed an advanced AI-powered SmartERP++ Assistant using ASP.NET MVC 5, C#, SQL Server, Entity Framework, iSAGE, OpenAI, 
+  and Ollama APIs within the Smart ERP ecosystem.
+2.Designed and implemented a ChatGPT-like conversational interface enabling dynamic multi-module ERP queries, chat history 
+  management, real-time business insights, and AI-assisted operational support.
+3.Implemented schema-based database discovery, intelligent table identification, AI-driven SQL query generation, and secure 
+  read-only SELECT query execution with role-based ERP data access and scalable MVC5 repository-service architecture.
